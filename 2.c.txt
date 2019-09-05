@@ -1,6 +1,6 @@
  /hamiltonion and lagragian
-
-main()
+#include<stdio.h>
+void main()
     {
         long int n;
         scanf("%lld",&n);
